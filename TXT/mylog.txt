@@ -21,3 +21,6 @@ ZCZC W01 20 L16 Assignment #06 (Dressing up my GitHub Page)
 ZCZC W01 5 L17 Assignment #07 (Updating mylog.txt)
 ZCZC W01 20 L18 Assignment #08 (Learning more commands)
 ZCZC W01 25 L19 Assignment #09 (Reading OSC10 chapter 1 + chapter 2 + chapter 18)
+ZCZC W02 20 L22 Doing Quiz
+ZCZC W02 100 L02 ZOOM Meetings related
+ZCZC W02 70 L09 Doing Assignments in General
