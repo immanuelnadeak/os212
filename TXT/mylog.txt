@@ -36,3 +36,18 @@ ZCZC W03 20 L16 Assignment #06
 ZCZC W03 10 L17 Assignment #07
 ZCZC W03 20 L18 Assignment #08
 ZCZC W03 30 L19 Assignment #09
+ZCZC W04 25 L01 SCELE/Discord related
+ZCZC W04 220 L02 ZOOM meetings related
+ZCZC W04 20 L05 Quiz related
+ZCZC W04 100 L06 References/Books/Documents/GSGS related
+ZCZC W04 50 L11 Assignment #01
+ZCZC W04 50 L12 Assignment #02
+ZCZC W04 60 L13 Assignment #03
+ZCZC W04 15 L14 Assignment #04
+ZCZC W04 55 L15 Assignment #05
+ZCZC W04 10 L16 Assignment #06
+ZCZC W04 10 L17 Assignment #07
+ZCZC W04 10 L18 Assignment #08
+ZCZC W04 10 L19 Assignment #09
+ZCZC W04 30 L22 Quiz
+ZCZC W04 60 L26 C-language
