@@ -51,3 +51,17 @@ ZCZC W04 10 L18 Assignment #08
 ZCZC W04 10 L19 Assignment #09
 ZCZC W04 30 L22 Quiz
 ZCZC W04 60 L26 C-language
+ZCZC W05  20 L01 SCELE/Discord related
+ZCZC W05 180 L02 ZOOM meetings related
+ZCZC W05  30 L05 Quiz related
+ZCZC W05 100 L06 References/Books/Documents/GSGS related
+ZCZC W05  60 L11 Assignment #01
+ZCZC W05  60 L12 Assignment #02
+ZCZC W05 100 L13 Assignment #03
+ZCZC W05  10 L14 Assignment #04
+ZCZC W05  30 L15 Assignment #05
+ZCZC W05  15 L17 Assignment #07
+ZCZC W05  20 L18 Assignment #08
+ZCZC W05  10 L19 Assignment #09
+ZCZC W05  30 L21 Trying something
+ZCZC W05  30 L22 Quiz

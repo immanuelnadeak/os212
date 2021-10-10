@@ -13,3 +13,7 @@ The video explains the meaning of security and what's so important about it. Mor
 This link provides information explaining the file system. From this link we can also increase our knowledge about the types of computer file systems, how they work, along wit the examples.
 5. [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
 The video explains the basics of file system. Personally I like the way the presenter explains 'cause it helps me visualize the file system better. 
+6. [Virtual Memory in OS](https://www.youtube.com/watch?v=g9HTAK0WwkY)<br>
+Explaining how in virtual memory RAM is splited, page frames, process splits into block of equal size, etc.
+7. [Summary of Virtual Memory](https://www.sitesbay.com/os/os-what-is-vertual-memory-in-operating-system)<br>
+Includes how virtual memory works, uses of virtual memory, also advantages and disvantages of virtual memory.
