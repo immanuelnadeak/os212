@@ -17,3 +17,7 @@ The video explains the basics of file system. Personally I like the way the pres
 Explaining how in virtual memory RAM is splited, page frames, process splits into block of equal size, etc.
 7. [Summary of Virtual Memory](https://www.sitesbay.com/os/os-what-is-vertual-memory-in-operating-system)<br>
 Includes how virtual memory works, uses of virtual memory, also advantages and disvantages of virtual memory.
+8. [Understanding Enforcement of Flow of Processes in Operating Systems](https://www.researchgate.net/publication/322254868_Understanding_Enforcement_of_Flow_of_Processes_in_Operating_Systems)<br>
+Process Management is an extensive and huge task for an OS. On this article we can learn about process and management models, Kernel and Process flow, etc.
+9. [Processes, Threads & Concurrency in Operating Systems](https://study.com/academy/topic/processes-threads-concurrency-in-operating-systems.html)<br>
+This link provides 15 lessons explaining processes, threads, and concurrency in OS. We can also take practice test and exams.
