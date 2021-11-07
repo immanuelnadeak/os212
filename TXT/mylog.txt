@@ -79,3 +79,19 @@ ZCZC W06  10 L19 Assignment #09
 ZCZC W06  30 L21 Trying something
 ZCZC W06  30 L22 Quiz
 ZCZC W06  60 L26 C-language
+ZCZC W07  30 L61 Backup Virtual Box
+ZCZC W07  05 L00 General, etc.
+ZCZC W07  20 L01 SCELE/Discord related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07  35 L05 Quiz related
+ZCZC W07  60 L11 Assignment #01
+ZCZC W07 100 L12 Assignment #02
+ZCZC W07 100 L13 Assignment #03
+ZCZC W07  60 L14 Assignment #04
+ZCZC W07  60 L15 Assignment #05
+ZCZC W07  15 L17 Assignment #07
+ZCZC W07  20 L18 Assignment #08
+ZCZC W07  10 L19 Assignment #09
+ZCZC W07  30 L22 Quiz
+ZCZC W07 100 L26 C-language
+

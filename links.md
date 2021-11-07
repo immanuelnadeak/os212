@@ -21,3 +21,8 @@ Includes how virtual memory works, uses of virtual memory, also advantages and d
 Process Management is an extensive and huge task for an OS. On this article we can learn about process and management models, Kernel and Process flow, etc.
 9. [Processes, Threads & Concurrency in Operating Systems](https://study.com/academy/topic/processes-threads-concurrency-in-operating-systems.html)<br>
 This link provides 15 lessons explaining processes, threads, and concurrency in OS. We can also take practice test and exams.
+10. [Synchronization: Race Conditions, Critical Section, Locks & Unlocks](https://www.youtube.com/watch?v=ZQb3DRy0g8U)<br>
+A video explaining about race conditions in synchronization which is a situationwhere several processes access and manipulate the same data (critical section), the critical section itself, also locks and unlocks.
+11. [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
+A video provided by GeeksforGeeks that discuss the Deadlock concept in Operatin
+Systems in the easiest possible manner with the help of real-world examples.
