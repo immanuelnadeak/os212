@@ -26,3 +26,7 @@ A video explaining about race conditions in synchronization which is a situation
 11. [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
 A video provided by GeeksforGeeks that discuss the Deadlock concept in Operatin
 Systems in the easiest possible manner with the help of real-world examples.
+12. [CPU Scheduling Algorithms](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE)<br>
+Playlist that provides explanation towards the difference of CPU Scheduling algorithms and examples of each type of the algorithms.CPU scheduling itself is a process which allows one process to use the CPU while the execution of another process is on hold (in waiting state) due to unavailability of any resource like I/O etc, thereby making full use of CPU. The aim of CPU scheduling is to make the system efficient, fast and fair.
+13. [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY)<br>
+Another video that explains the basics of CPU scheduling.
